@@ -18,7 +18,7 @@ navigation, page navigation, and Row-Level Security (RLS).
 
 # EV Charging Demand Analytics
 
-![EV Charging Analytics – Executive Overview](DASHBOARD%20IMAGES/Executive.png)
+![EV Charging Analytics – Executive Overview](./DASHBOARD%20IMAGES/Executive.png)
 
 An interactive Power BI analytics project...
 
