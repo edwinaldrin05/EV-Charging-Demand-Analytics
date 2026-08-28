@@ -1,8 +1,7 @@
 # EV Charging Demand Analytics
 
-<img src="EV_Charging_Demand/DASHBOARD IMAGES/Executive.png"
-     alt="EV Charging Analytics – Executive Overview"
-     width="100%">
+<img width="1920" height="1080" alt="Executive" src="https://github.com/user-attachments/assets/3c8c0b5b-2b85-49aa-981d-6a390653cdc7" />
+
 
 An interactive **Power BI analytics project** designed to analyze EV charging demand, energy consumption, charging cost, vehicle behavior, charger utilization, station performance, and location-level demand.
 
