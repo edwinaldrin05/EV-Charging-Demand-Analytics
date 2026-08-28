@@ -1,6 +1,6 @@
 # EV Charging Demand Analytics
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/EV_Charging_Demand/main/DASHBOARD%20IMAGES/Executive.png"
+<img src="EV_Charging_Demand/DASHBOARD IMAGES/Executive.png"
      alt="EV Charging Analytics – Executive Overview"
      width="100%">
 
