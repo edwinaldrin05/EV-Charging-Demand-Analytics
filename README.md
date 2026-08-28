@@ -16,6 +16,12 @@ behavior, and station performance.
 The dashboard includes bookmarks, filters, tooltips, drill-through
 navigation, page navigation, and Row-Level Security (RLS).
 
+# EV Charging Demand Analytics
+
+![EV Charging Analytics – Executive Overview](DASHBOARD%20IMAGES/Executive.png)
+
+An interactive Power BI analytics project...
+
 📌 Dashboard Views
 
 1. Executive Overview
